@@ -13,3 +13,5 @@
 [SwarmIntelligence-Project1](https://github.com/FardinRastakhiz/SwarmIntelligence-Project1)
 
 [SimpleWeisfeilerLehmanVisualization](https://github.com/FardinRastakhiz/SimpleWeisfeilerLehmanVisualization/blob/main/weisfeiler_leman.ipynb)
+
+[Digital Signal Processing](https://github.com/FardinRastakhiz/MSc-DSP)
